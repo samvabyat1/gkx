@@ -15,7 +15,7 @@ Built with Flutter.
 
 **Client:** Flutter, Android
 
-**Server:** Firebase RTDB, Auth, Cloud Storage
+**Database:** Hive
 
 
 ## Support
