@@ -1,16 +1,29 @@
-# gkx
+# Google Keep - UI + Backend
 
-A new Flutter project.
+Stores your notes on the way. Simple to use offline app.\
+With Google's Material 3 design.\
+Built with Flutter.
 
-## Getting Started
+![Untitled](https://github.com/samvabyat1/gkx/assets/127547778/e21f3858-0ae7-4814-88fe-8bfe993afe75)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
+[Download apk](https://github.com/samvabyat1/gkx/releases/download/v1.0/app-release.apk)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+
+**Client:** Flutter, Android
+
+**Server:** Firebase RTDB, Auth, Cloud Storage
+
+
+## Support
+
+For support, email samvbyat1@gmail.com.
+
+
+## Authors
+
+- [@samvabyat1](https://github.com/samvabyat1)
+
