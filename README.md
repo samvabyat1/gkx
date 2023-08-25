@@ -1,7 +1,8 @@
 # Google Keep - UI + Backend
 
-Stores your notes on the way. Simple to use offline app.\
-With Google's Material 3 design.\
+Stores your notes on the way. Simple to use offline app.
+
+With Google's **Material 3** design.\
 Built with Flutter.
 
 ![Untitled](https://github.com/samvabyat1/gkx/assets/127547778/e21f3858-0ae7-4814-88fe-8bfe993afe75)
